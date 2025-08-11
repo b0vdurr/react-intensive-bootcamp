@@ -35,21 +35,20 @@ This bootcamp is divided into 3 intensive weeks:
 
 #### Day 1: JS Syntax Crash Course
 * Theory:
-    - [ ] Variables (`let`, `const`)
-    - [ ] Data types & dynamic typing
-    - [ ] Comparison to Python
+    - [X] Variables (`let`, `const`)
+    - [X] Data types & dynamic typing
+
 * Practice:
-    - [ ] Write basic JS snippets
-    - [ ] Exercises: [Exercism JS Track](https://exercism.org/tracks/javascript)
+    - [X] Write basic JS snippets
+    - [X] Exercises: [Exercism JS Track](https://exercism.org/tracks/javascript)
 
 #### Day 2: Functions, Scope, Hoisting
 * Theory:
-    - [ ] Arrow functions vs. regular
-    - [ ] Scope, closures
-    - [ ] Hoisting
+    - [X] Arrow functions vs. regular
+    - [X] Scope, closures
+    - [X] Hoisting
 * Practice:
-    - [ ] Convert Python functions
-    - [ ] Scope tracing exercises
+    - [X] Scope tracing exercises
 
 #### Day 3: Objects, Arrays, Loops
 * Theory:
