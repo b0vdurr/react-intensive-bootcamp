@@ -9,7 +9,7 @@ This roadmap was created in collaboration with ChatGPT, and what makes it especi
 ## About Me
 
 I'm a 19-year-old Software Development student (MBO 4, Year 2) based in the Netherlands.  
-My background includes experience with **Python**, **PHP**, and **Laravel**, but I’m new to frontend frameworks like React and have very limited experience with JavaScript.
+My background includes experience with **Python**, **PHP**, and **Laravel**, but I’m new to frontend frameworks like React.
 
 This repository is part of my **self-structured learning system** to document, track, and solidify my skills through theory, practice, and mini-projects.
 
