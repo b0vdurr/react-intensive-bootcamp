@@ -52,12 +52,12 @@ This bootcamp is divided into 3 intensive weeks:
 
 #### Day 3: Objects, Arrays, Loops
 * Theory:
-    - [ ] Object & array manipulation
-    - [ ] Spread/rest operators
-    - [ ] Destructuring
+    - [X] Object & array manipulation
+    - [X] Spread/rest operators
+    - [X] Destructuring
 * Practice:
-    - [ ] Rebuild Laravel-like structures
-    - [ ] Use `map`, `filter`, `reduce`
+    - [X] Rebuild Laravel-like structures
+    - [X] Use `map`, `filter`, `reduce`
 
 #### Day 4: Promises, async/await, Fetch API
 * Theory:
