@@ -61,11 +61,11 @@ This bootcamp is divided into 3 intensive weeks:
 
 #### Day 4: Promises, async/await, Fetch API
 * Theory:
-    - [ ] How async works in JS
-    - [ ] Using `fetch()` to call APIs
+    - [X] How async works in JS
+    - [X] Using `fetch()` to call APIs
 * Practice:
-    - [ ] Call public API (PokéAPI)
-    - [ ] Display data with async/await
+    - [X] Call public API (JokeAPI)
+    - [X] Display data with async/await
 
 #### Day 5: DOM Manipulation + Events
 * Theory:
