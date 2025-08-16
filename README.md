@@ -69,14 +69,14 @@ This bootcamp is divided into 3 intensive weeks:
 
 #### Day 5: DOM Manipulation + Events
 * Theory:
-    - [ ] Event listeners, form handling
-    - [ ] `querySelector`, `appendChild`, etc.
+    - [X] Event listeners, form handling
+    - [X] `querySelector`, `appendChild`, etc.
 * Practice:
-    - [ ] Build a to-do list (pure JS)
+    - [X] Build a to-do list (pure JS)
 
 #### Days 6–7: Review + Mini Project
 * Project:
-    - [ ] **User List App**: fetch users, render cards with JS
+    - [X] **User List App**: fetch users, render cards with JS
 
 ---
 
