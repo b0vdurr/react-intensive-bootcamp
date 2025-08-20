@@ -86,24 +86,24 @@ This bootcamp is divided into 3 intensive weeks:
 
 #### Day 8: JSX + Functional Components
 * Theory:
-    - [ ] What is JSX?
-    - [ ] Writing & exporting components
+    - [X] What is JSX?
+    - [X] Writing & exporting components
 * Practice:
-    - [ ] Static layout: Navbar, Card
+    - [X] Static layout: Navbar, Card
 
 #### Day 9: Props + Children
 * Theory:
-    - [ ] Passing data via props
-    - [ ] Component composition
+    - [X] Passing data via props
+    - [X] Component composition
 * Practice:
-    - [ ] Rebuild “User List” using props
+    - [X] Rebuild “User List” using props
 
 #### Day 10: `useState`
 * Theory:
-    - [ ] Basics of local state with hooks
+    - [X] Basics of local state with hooks
 * Practice:
-    - [ ] Counter
-    - [ ] Toggle component
+    - [X] Counter
+    - [X] Toggle component
 
 #### Day 11: Lists, Keys, Event Handling
 * Theory:
