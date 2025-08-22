@@ -1,0 +1,141 @@
+body.light {
+    background-color: #fdfdfd;
+    color: #333;
+}
+button{
+    all: unset;
+    cursor: pointer;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+nav button{
+    all:unset;
+    cursor: pointer;
+    margin: 25px;
+}
+
+body.dark {
+    background-color: #121212;
+    color: #f5f5f5;
+}
+.todo {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    transition: background 0.3s, color 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.todo.dark {
+    background-color: #232323;
+    box-shadow: 0 8px 16px 0 rgba(200, 200, 200, 0), 0 6px 20px 0 rgba(200, 200, 200, 0.19);
+}
+.todo h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.todo input[type="text"] {
+    width: calc(100% - 120px);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    font-size: 16px;
+    background-color: inherit;
+    color: inherit;
+}
+
+.todo button {
+    padding: 10px 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.todo.light button{
+    background-color: #eaeaea;
+}
+.todo.light button:hover{
+    background-color: #d1d1d1;
+}
+.todo.dark button{
+    background-color: #515151;
+}
+.todo.dark button:hover{
+    background-color: #3c3c3c;
+}
+.todo.light .add-btn {
+    background-color: #4caf50;
+    color: white;
+}
+
+.todo.light .add-btn:hover {
+    background-color: #45a049;
+}
+
+/* Тёмная кнопка добавления */
+.todo.dark .add-btn {
+    background-color: #388e3c;
+    color: white;
+}
+
+.todo.dark .add-btn:hover {
+    background-color: #2e7d32;
+}
+
+/* Список задач */
+.todo ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.todo li.task {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transition: background 0.2s;
+}
+
+.todo.light li.task {
+    background-color: #f5f5f5;
+}
+
+.todo.light li.task:hover {
+    background-color: #eaeaea;
+}
+
+.todo.dark li.task {
+    background-color: #3e3e3e;
+}
+
+.todo.dark li.task:hover {
+    background-color: #2a2a2a;
+}
+
+.todo li span {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.todo li span u {
+    text-decoration: underline;
+    color: #999;
+}
+
+.todo li button {
+    margin-left: 5px;
+    padding: 5px 8px;
+    font-size: 14px;
+    border-radius: 5px;
+}

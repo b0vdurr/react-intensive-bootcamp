@@ -107,25 +107,26 @@ This bootcamp is divided into 3 intensive weeks:
 
 #### Day 11: Lists, Keys, Event Handling
 * Theory:
-    - [ ] Rendering lists
-    - [ ] Forms and click handlers
+    - [X] Rendering lists
+    - [X] Forms and click handlers
 * Practice:
-    - [ ] Dynamic to-do list (React)
+    - [X] Dynamic to-do list (React)
 
 #### Day 12: `useEffect` + Lifecycle
 * Theory:
-    - [ ] Side effects in React
+    - [X] Side effects in React
 * Practice:
-    - [ ] Fetch API on mount
-    - [ ] Loading and error states
+    - [X] Fetch API on mount
+    - [X] Loading and error states
+(Skipped becaause I've used these knowledge in UserListReact)
 
 #### Day 13: Conditional Rendering + Styling
 * Theory:
-    - [ ] Logical `&&`, ternaries
-    - [ ] Basic styling (CSS modules / Tailwind)
+    - [X] Logical `&&`, ternaries
+    - [X] Basic styling (CSS modules / Tailwind)
 * Practice:
-    - [ ] Light/dark mode toggle
-
+    - [X] Light/dark mode toggle
+(Skipped becaause I've used these knowledge in To-do list)
 #### Day 14: Review + Component Patterns
 * Review:
     - [ ] Component reuse
