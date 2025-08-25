@@ -129,10 +129,10 @@ This bootcamp is divided into 3 intensive weeks:
 (Skipped becaause I've used these knowledge in To-do list)
 #### Day 14: Review + Component Patterns
 * Review:
-    - [ ] Component reuse
-    - [ ] Container vs. Presentational
+    - [X] Component reuse
+    - [X] Container vs. Presentational
 * Challenge:
-    - [ ] Rebuild JS mini-project in React
+    - [X] Rebuild JS mini-project in React
 
 ---
 
