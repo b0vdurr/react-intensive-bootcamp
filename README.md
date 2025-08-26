@@ -140,29 +140,29 @@ This bootcamp is divided into 3 intensive weeks:
 
 #### Day 15: React Router (SPA)
 * Theory:
-    - [ ] `react-router-dom` basics
+    - [X] `react-router-dom` basics
 * Practice:
-    - [ ] Multi-page app (Home, About, Details)
+    - [X] Multi-page app (Home, About, Details)
 
 #### Day 16: Lifting State + Forms
 * Theory:
-    - [ ] Controlled inputs
-    - [ ] State lifting
+    - [X] Controlled inputs
+    - [X] State lifting
 * Practice:
-    - [ ] Contact form with validation
+    - [X] Contact form with validation
 
-#### Day 17: Reuse + Custom Hooks
+#### Day 17: Reuse + Custom Hooks (SKIPPED)
 * Theory:
-    - [ ] Custom hooks for shared logic
+    - [X] Custom hooks for shared logic
 * Practice:
-    - [ ] `useFetch` hook
+    - [X] `useFetch` hook
 
 #### Days 18–20: Final Projects
 
 Choose 1–2 of these:
 - [ ] **Blog Reader App** – fetch & view blog posts
 - [ ] **Movie Explorer** – search & filter API data
-- [ ] **Notes App** – CRUD with `localStorage`
+- [X] **Notes App** – CRUD with `localStorage` [IN PROGRESS]
 
 #### Day 21: Polish + Reflect
 - [ ] Final touches & refactor
